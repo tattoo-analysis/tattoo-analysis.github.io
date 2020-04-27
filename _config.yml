@@ -5,8 +5,7 @@ description: A compilation of tattoo analysis ressources
 show_downloads: true 
 
 github:
-  repository_url: 
-  zip_url: 
-  tar_url: 
+  repository_url: https://github.com/tattoo-analysis/tattoo_pigments_spectral_libraries
+  zip_url: https://github.com/tattoo-analysis/tattoo_pigments_spectral_libraries/archive/master.zip
   owner_url: https://github.com/corinnabrungs
   owner_name: Corinna Brungs
