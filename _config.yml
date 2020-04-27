@@ -1,1 +1,12 @@
 theme: jekyll-theme-slate
+
+title: Tattoo Analysis
+description: A compilation of tattoo analysis ressources
+show_downloads: true 
+
+github:
+  repository_url: 
+  zip_url: 
+  tar_url: 
+  owner_url: https://github.com/corinnabrungs
+  owner_name: Corinna Brungs
