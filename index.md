@@ -2,6 +2,8 @@
 ## Mass Spectral Library Matching
 Download the mass spectral libraries and a special MZmine version for advanced spectral library matching and support for imaging mass spectrometry data import (imzML support). 
 
+- [Download special MZmine build](https://github.com/tattoo-analysis/tattoo_pigments_spectral_libraries/releases/download/mzmine_release/MZmine-2.41.5-imzml.zip)
+- [Download latest libraries](https://github.com/tattoo-analysis/tattoo_pigments_spectral_libraries/archive/master.zip)
 
 ### Support or Contact
 Feel free to contact corinna.brungs@uni-muenster.de, robinschmid@uni-muenster.de oder uk@uni-muenster.de .
