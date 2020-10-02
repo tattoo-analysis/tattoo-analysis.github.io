@@ -6,4 +6,4 @@ Download the mass spectral libraries and a special MZmine version for advanced s
 - [Download latest libraries](https://github.com/tattoo-analysis/tattoo_pigments_spectral_libraries/archive/master.zip)
 
 ### Support or Contact
-Feel free to contact corinna.brungs@uni-muenster.de, robinschmid@uni-muenster.de oder uk@uni-muenster.de .
+Feel free to contact corinna.brungs@uni-muenster.de, robinschmid@uni-muenster.de, or uk@uni-muenster.de .
