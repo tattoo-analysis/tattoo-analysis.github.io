@@ -7,3 +7,6 @@ Download the mass spectral libraries and a special MZmine version for advanced s
 
 ### Support or Contact
 Feel free to contact corinna.brungs@uni-muenster.de, robinschmid@uni-muenster.de, or uk@uni-muenster.de .
+
+
+Data and methods in the github.com/tattoo-analysis repository by Corinna Brungs and Robin Schmid et al. are licensed under CC BY 4.0
